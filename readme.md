@@ -1,6 +1,7 @@
-# 3D text by Three.js
+# Galaxy Generator by Three.js
 
-- vite로 작성하였습니다.
+- Three.js 로 제작한 나선은하입니다.
+- 결과물링크 https://moomooj.github.io/galaxy-generator/
 
 ```bash
 # npm install
